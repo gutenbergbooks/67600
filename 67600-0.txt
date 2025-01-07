@@ -1,0 +1,2480 @@
+﻿The Project Gutenberg eBook of How to Trace a Pedigree, by H. A.
+Crofton
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: How to Trace a Pedigree
+
+Author: H. A. Crofton
+
+Release Date: March 9, 2022 [eBook #67600]
+
+Language: English
+
+Produced by: The Online Distributed Proofreading Team at
+             https://www.pgdp.net (This file was produced from images
+             generously made available by The Internet Archive)
+
+*** START OF THE PROJECT GUTENBERG EBOOK HOW TO TRACE A PEDIGREE ***
+
+
+
+
+
+ UNIFORM WITH THIS VOLUME.
+
+ _FOR THE BIBLIOPHILE AND BOOK-LOVER._
+
+ Each Volume bound in Library Style. Cloth gilt, =2=/- net.
+
+ _BY JAMES DOUGLAS STEWART._
+
+
+ How to Use a Library.
+
+ With Explanations of Library Catalogues, a Systematic Description of
+ Guides to Books, and a Guide to Special Libraries.
+
+
+ RE-ISSUED FROM “THE BOOK-LOVER’S LIBRARY.”
+
+ _BY HENRY B. WHEATLEY._
+
+
+ How to Catalogue a Library.
+
+ Contains various points and rules for making a Library Catalogue, and
+ discusses the principles involved, etc.
+
+
+ How to Form a Library.
+
+ Full of helpful and practical suggestions for the Bibliographer and
+ much that will both amuse and interest the book-loving reader.
+
+
+ How to Make an Index.
+
+ The various theories concerning Indexing are set forth, certain rules
+ are laid down and illustrated, whilst erroneous methods are exposed in
+ this volume.
+
+
+ _BY W. CAREW HAZLITT._
+
+
+ Gleanings in Old Garden Literature.
+
+ “A volume that may afford delight to a lover of gardens, even if he be
+ not a lover of books.”--_Morning Post._
+
+
+ Old Cookery Books & Ancient Cuisine.
+
+ An historical sketch of the subject of cookery as supplied by the
+ earliest MSS. and Printed Cookery Books of this and other countries.
+
+
+ Studies in Jocular Literature.
+
+ A POPULAR SUBJECT MORE CLOSELY CONSIDERED.
+
+
+  LONDON: ELLIOT STOCK,
+  62, PATERNOSTER ROW, E.C.
+
+ [Illustration: Publisher mark]
+
+
+
+
+ _A KEY TO THE FAMILY DEED-CHEST._
+
+ How to Decipher and Study Old Documents
+
+ Third Edition, Revised. Enlarged and Illustrated.
+
+ By E. E. THOYTS. Art cloth, =5/-= net.
+
+
+ Some of the difficulties which beset any one who studies such
+ documents for the first time, unless he be an expert, are the
+ deciphering of the ancient and unfamiliar style of writing; the
+ peculiar abbreviations and signs which were used by our forefathers;
+ the quaint phrases and expressions and obsolete words occurring; the
+ arbitrary and old-fashioned spelling, which to the uninitiated are
+ always vexatious. It is to enable the more or less experienced student
+ to meet and cope with these and similar difficulties that this work
+ has been compiled, by one who has had considerable experience in
+ research.
+
+
+  LONDON: ELLIOT STOCK,
+  62, PATERNOSTER ROW, E.C.
+
+
+
+
+ FOR THE GENEALOGIST.
+
+ _BY WILLIAM H. WHITMORE, A.M._
+
+
+ ANCESTRAL TABLETS.
+
+ A Collection of Diagrams for Pedigrees so arranged that Eight
+ Generations of the Ancestors of any Person may be Recorded in a
+ connected and Simple Form.
+
+ Royal 4to, Quarter Roxburgh, gilt, =8/6= post free.
+
+ “A difficult plan to explain on paper, but is fascinatingly simple
+ when actually handled, as an American critic truly remarks--‘No one
+ with the least bent for genealogical research ever examined this
+ ingeniously compact substitute for the family tie without longing to
+ own it.’”--_Reliquary._
+
+
+  LONDON: ELLIOT STOCK,
+  62, PATERNOSTER ROW, E.C.
+
+
+
+
+  HOW TO
+  TRACE A PEDIGREE
+
+
+  BY
+  H. A. CROFTON
+
+
+  LONDON: ELLIOT STOCK
+  62, PATERNOSTER ROW, E.C.
+  1911
+
+
+
+
+PREFACE
+
+
+I have endeavoured in this little book to give the amateur
+pedigree-hunter the benefit of what I have personally found to be the
+most valuable documents to search, and full instructions as to where
+he can consult them, also the various steps to be taken in tracing a
+pedigree, without unduly crowding his attention with names and classes
+of documents which he may need to consult.
+
+I have, however, added most of these in a later part of the book, so
+that sufficient information should be obtainable within its pages to
+meet the requirements of the average genealogical searcher in the
+British Isles.
+
+  H. A. C.
+
+
+
+
+  CONTENTS
+
+
+  CHAP.                                                             PAGE
+
+  INTRODUCTORY                                                         1
+
+  I. FIRST STEPS IN PEDIGREE-HUNTING                                   3
+
+  II. WILL-SEARCHING                                                   8
+
+  III. PUBLISHED SOURCES OF INFORMATION                               13
+
+  IV. MISCELLANEOUS MS. DOCUMENTS OF VALUE TO THE SEARCHER            19
+
+  V. HOW TO MAKE A FAMILY TREE                                        24
+
+  VI. ADDITIONAL NOTES ON PEDIGREE-HUNTING IN LONDON                  27
+
+  VII. THE PEDIGREE-HUNTER IN IRELAND                                 33
+
+  VIII. THE PEDIGREE-HUNTER IN SCOTLAND AND THE PROVINCES             38
+
+  IX. THE WILL-SEARCHER IN ENGLAND                                    45
+
+  X. AN ADDITIONAL LIST OF PUBLICATIONS WHICH MAY BE USEFUL WHEN
+  TRACING A PEDIGREE                                                  48
+
+  XI. THE PAINS AND PLEASURES OF PEDIGREE-HUNTING                     52
+
+  XII. HOW TO SAVE EXPENSE IN PEDIGREE-HUNTING                        56
+
+  XIII. LAST WORDS                                                    59
+
+  INDEX                                                               65
+
+
+
+
+HOW TO TRACE A PEDIGREE
+
+
+
+
+INTRODUCTORY
+
+
+Various authorities have derived the word “pedigree” very differently,
+and it is impossible to say anything definite as to its origin. One
+of the most picturesque and possibly the most probable derivation is
+from _pied de grue_--crane’s foot. Evidently this was intended as a
+word-picture, the claws dividing from a bird’s foot being suggestive of
+the different branches issuing from the parent stem in a pedigree. When
+speaking of stems and branches, our thoughts are naturally directed to
+trees--hence, of course, the expression a “family tree.”
+
+Many nations have preserved the records of family genealogy in their
+national archives; indeed, all have done this more or less, and all
+honour to those who have been keenest in the matter, for a nation is
+composed of families, and family or individual history or biography
+helps to make the history of that nation, while heredity perhaps more
+than environment tends to explain the complex character with which each
+individual member of it is endowed.
+
+The study of genealogy, therefore, is a useful one; but, apart from
+such considerations, there are many who are personally interested in
+their own ancestry, and would like to be able to trace pedigrees and
+learn more of their family history; but the probability is that they
+have not the slightest idea how to set about the work. Others may think
+(however interested they might be in _results_) that the details they
+would have to master must be necessarily dry as dust, and that the
+search itself would run away with a great deal of money.
+
+Well, though it is quite possible to expend large sums in
+pedigree-hunting, it is by no means necessary to do so; and, though
+some dry records may have to be plodded through, searches are in
+general replete with interest. The reader may possibly be reassured on
+both these points before laying down this little book, the especial aim
+of which will be to show the amateur how he may become a successful
+pedigree-hunter.
+
+
+
+
+CHAPTER I
+
+FIRST STEPS IN PEDIGREE-HUNTING
+
+
+The reader being anxious to trace his own or a friend’s pedigree, or to
+look for some missing link in an ancestry--how should he set about the
+work?
+
+To do this more efficiently, and to save unnecessary expense, he
+should first ascertain and set down whatever _is already known_ on the
+subject or can be discovered, before proceeding to record-searching.
+
+We will suppose that he is interested in ascertaining the ancestry
+of a certain man, whose father’s name is known and, perhaps, his
+grandfather’s; but he cannot trace the pedigree farther back.
+
+Also, presumably, he may know where this individual and, possibly, his
+father and grandfather lived. From such data, however slight they may
+be, his future knowledge is to spring--for he must work from the known
+to the unknown. This is necessary in all genealogical searches.
+
+Friends of the family can give him some little particulars--all of
+which should be carefully noted down--and a visit to the place where he
+locates the earliest known member of it, if practicable, might be very
+advantageous.
+
+If this is not possible at the moment, he should write to the vicar of
+the parish, who, from the parochial entries, would supply information
+at a moderate cost. There might also be tombstones, with names and
+dates on them, which would help materially.
+
+Some parish registers have been printed. The searcher should ascertain
+whether the parish in which he is interested is among the number, and,
+if so, whether the published entries have been brought down to the date
+he requires, as in that event he might obtain the necessary information
+in some large library free of cost. But he is scarcely likely to be so
+exceptionally fortunate at the start, so will probably have to make the
+requisite inquiries.
+
+Before doing so, however, our pedigree-hunter should carefully consider
+the _surname_ of the individual in question. If he boasts of an
+uncommon one, as say, for instance, _Vandeleur_, the chances are that
+all the Vandeleurs mentioned in the same parish books will belong to
+his family. If, however, he is a _Smith_--well, the Smiths are not a
+very small tribe, and several of the name unrelated to each other
+might appear in the same parish. To obviate the difficulties which this
+would entail, our pedigree-hunter should be clear as to the district in
+the parish or name of the house in which his ancestor lived. But, if he
+does not know this, how is he to ascertain it?
+
+Well, he probably _will_ know it in the case of the latest of his
+ancestors, say, his father or grandfather, and let him work from that
+point. Failing this, a study of the family names in each district
+should reveal the secret.
+
+The _surname_ itself, especially if the searcher has been able to trace
+the ancestry some way back, should be carefully noted with regard to
+the different forms in which it may appear, for in early days there was
+a quite delightful variation in the spelling of names; so a somewhat
+similar sounding name, if spelt differently, should not be ruled out of
+court as having necessarily nothing to do with the matter, the _odds_
+being generally on the other side.
+
+Even if parochial registers supply no additional details to those
+which friends have been able to give, their testimony may be of great
+importance, for the recollections of old friends are more or less
+traditional, and the golden rule to be most carefully observed by
+genealogists, is
+
+  _Verify your Information._
+
+An honest searcher would never appreciate a “faked” pedigree; but it
+is fatally easy to assume a certain point, and, working from that
+assumption, to have all future details more or less incorrect.
+
+No time should be considered wasted which is spent on verifying
+information.
+
+The searchers should not even take it for granted that all Peerages or
+similar works are always correct; as a matter of fact, this is far from
+being the case.
+
+Even in the mystic circle of the Baronetage it is said that some
+sixty claimants have appeared, whose titles, though received for long
+unchallenged, cannot be fully verified.
+
+Our late king recently ordered an _official_ roll of the Baronetage to
+be registered and kept.
+
+This does not preclude, however, the pedigree-hunter from consulting
+Peerages and works of Family History at libraries; indeed, this might
+well be the next stage in his search. Let him look through his Library
+Index, under the heading “Genealogy,” and consult works in it which he
+thinks might bear on the matter in hand.
+
+There are many such in all good libraries, a list of which will be
+given later on; but, while the search is in its infancy and does not go
+farther back than two or three generations, probably the Peerages (if
+the family is of social position), with perhaps certain other printed
+pedigrees and works on family history, such as Burke’s _Commoners_ and
+_Landed Gentry_, should suffice for the present.
+
+But the golden rule in genealogy should always be remembered; and,
+though the information thus derived may possibly be fairly correct,
+many details may call for verification later in the search.
+
+
+
+
+CHAPTER II
+
+WILL-SEARCHING
+
+
+Having proceeded thus far, the great subject of Wills, which form one
+of the strongest features in pedigree-hunting, should be now approached.
+
+The searcher will presumably now have new ancestors to note; so, before
+he starts will-hunting, he should have some idea as to how to record
+them on a family “tree.”
+
+And, as a help towards this, he cannot do better than provide himself
+with a work by William Whitmore, entitled _Ancestral Tablets_.[1]
+These are a collection of Diagrams and Pedigrees, so arranged that
+eight generations of ancestors can be recorded in a manner which is
+plain, simple, and easily understood. It is difficult to explain this
+ingenious system on paper, but a glance at it is almost sufficient to
+show its method of working.
+
+The merest tyros in genealogy, or those more advanced in the study,
+will find these tablets invaluable, as they do away with the difficulty
+of having to draw up a family tree for themselves.
+
+But, whatever kind of “tree” is adopted or worked out, the study of
+wills should be productive of new ancestors with which to embellish it.
+
+If working in London, Somerset House will be the happy hunting-ground
+of the will-searcher, and in various parts of England there are
+District Registries at which old wills are also kept.
+
+Perhaps, in a sense, the searcher in Ireland has most need of all to
+be grateful to the powers that be with regard to this aspect of his
+pedigree work, for, practically speaking, all Irish wills can be found
+in Dublin. The later ones are in the Probate Office, and the earlier,
+with which searchers will be mainly interested, in the Dublin Record
+Office, both these offices being situated in the “Four Courts.”
+
+But, wherever he is working, the wills will naturally divide themselves
+into those proved in the Prerogative and Diocesan Courts.
+
+In England, up to 1858, wills were proved in the Prerogative Courts
+of Canterbury and York, or were to be found in the various Diocesan
+Courts. There were also a large number (nearly four hundred) of
+“peculiar courts,” which were depositories of such documents. Later
+wills are all kept at Somerset House, and a great number of earlier
+ones, in ponderously bound volumes of copies, can also be consulted
+there.
+
+Suitable indexes are everywhere provided, and the searcher should study
+the contents of these, under the name for which he is looking.
+
+Let us suppose he has traced the ancestry of a family of the name of
+Grey down to a certain Thomas Grey of Larchfield, Blankshire, who died
+in 1790.
+
+His next step is to find Thomas Grey’s father, and afterwards he will
+trace his line farther back.
+
+To do this, he will look through any Prerogative or Diocesan Indexes
+connected with Blankshire, and then go through all wills of Greys of
+Larchfield before 1790; and, if he is not acquainted with the names
+of Thomas’ brothers and sisters (which might probably be needed to
+fully identify Thomas himself), and he has not full details of his
+later family history, he will also consult those of succeeding dates.
+In fact, under any circumstances, he should certainly, at one time or
+another, look through every will connected with the family in that
+district.
+
+If he discovers wills of Greys of Larchfield of the required date, one
+of them will probably reveal Thomas’ parentage. Should he not find
+such wills, or should they not reveal what he is looking for, he might
+search for other wills of the name in the County of Blankshire, and
+afterwards for wills in other countries, for in pedigree-hunting no
+will which is possibly connected with the family should be ignored.
+
+When all such wills proved in the Prerogative and Diocesan Courts
+have been looked up, some degree of new information--probably a large
+amount--will almost certainly have been acquired by the expenditure of
+more or less time and trouble, as the case may be.
+
+Here again, if the family name is an uncommon one, it would probably
+take less time to trace the ancestry than if the name was Jones or
+Smith, and here again the variations in the old spelling should be
+remembered.
+
+Also, it must not be forgotten that an individual sometimes adopts an
+_entirely different surname_. This may not very frequently occur, but
+the possible contingency should not be ignored.
+
+An old Statute, 4 Edward IV., enacted that all Irishmen who lived
+within the English pale (Dublin, Kildare, etc.) should adopt an English
+surname, to be derived from the name of an office, trade, place, or
+colour.
+
+It may also be noted that a very uncommon _Christian_ name is often a
+great help to the searcher, as, if he comes across this uncommon name
+in connection with the required surname, the chances are that he is
+on the right track, and has discovered a new twig emanating from the
+family tree.
+
+Having searched through wills of the required surname (unless he has
+been most singularly unfortunate), the pedigree-hunter, besides having
+discovered new ancestors, will have come across many relations of the
+family bearing other surnames. The wills of the most likely of these
+should be consulted in the same way, as they may reveal much.
+
+
+FOOTNOTES:
+
+[1] Published by Elliot Stock, 62 Paternoster Row, E.C.
+
+
+
+
+CHAPTER III
+
+PUBLISHED SOURCES OF INFORMATION
+
+
+Having thus gone through what seem to be the most probable wills for
+his purpose, the pedigree-hunter may profitably wend his way to a large
+library, and consult printed authorities before he studies others in
+manuscript.
+
+There is no royal law about this, however; much will depend on where
+he lives and what he is looking for, and, possibly, he may elect to go
+daily from manuscripts to printed collections, and _vice versa_. But
+this chapter will be devoted to information as to the probably most
+useful printed books to consult.
+
+There are many others which might also prove valuable, and a detailed
+list of these will be found further on.
+
+Assuming that the searcher, as suggested, has in the early part of his
+quest looked up Peerages, books of Family History, etc., he may now
+proceed to other volumes; but the Family Histories and Peerages should
+always be accessible, for he will often need to refer to them again as
+new names crop up.
+
+Perhaps he might first consult Marshall’s _Genealogists’ Guide_, which
+will give him directions (under the names of different families) where
+he can obtain information about such.
+
+Indeed, the number of printed books which _might_ help form no mean
+array. To name some of the most valuable of these:--
+
+The _Reports of the Deputy-Keeper_ are issued periodically, and may
+prove a great assistance to the searcher. He should consult any volumes
+which look promising, and he can judge of this from the indexes
+connected with them.
+
+The Deputy-Keeper of the Rolls in Ireland also issues _Reports_, the
+information in which may be invaluable when Irish families are the
+objects of a search.
+
+Then, if looking “far back into other years,” at least, into somewhat
+distant centuries, there are the _Calendars of State Papers_, with
+their different series, which may reveal a good deal and are most
+interesting reading on certain points. All have good indexes, by means
+of which the name required can readily be traced.
+
+The printed volumes of _The Historical Manuscripts’ Commission_ are
+mines of information as regards many subjects; but, of course, every
+one cannot expect his ancestor to be mentioned there.
+
+Foster’s _Collectanea_--“An index to the pedigrees in the _Herald’s
+Visitation_ and other MSS.,” these “other” also being most valuable--is
+an important and yet disappointing book.
+
+If the required name happens to begin with an A, Foster may prove a
+veritable treasure-trove of information; but if the initial of the
+patronymic comes much farther on in the alphabet--alas! Foster is of no
+use; for his information, compiled in the most learned manner from a
+variety of MSS. and other sources, was to be given alphabetically under
+every different surname, but this proved to be a colossal task--too
+colossal probably. At any rate, the work has stopped short in the
+middle of the B’s.
+
+Sims’ _Index to the Pedigrees_ in the _Herald’s Visitations in the
+British Museum_ is not an up-to-date publication, yet is most valuable
+if the pedigree-hunter is searching in the Museum.
+
+_Lancashire and Cheshire Records_, by Walford D. Selby, may be
+profitably consulted even by those whose ancestors are not connected
+with these counties, for the information it affords is by no means
+confined to them.
+
+The valuable works of Sir Bernard Burke, all full of family lore, may
+reveal much, besides what is to be learned from his _Peerage_ and
+_Landed Gentry_. His _Commoners_ especially is of much interest.
+
+Walford’s _County Families_ would prove useful in many cases, and, if
+an _Irish_ family is being looked up, O’Hart’s _Irish Pedigrees_ is
+a mine of information. But just a word of warning here--some of this
+information certainly needs to be verified from other sources before it
+can be accepted in its entirety.
+
+If still considering Irish families, Pre’s _Occurrences_ will give
+eighteenth-century items of interest, but is more of the character of a
+newspaper.
+
+The _Harleian Society Publications_, as well as those of the _Record_
+and _Camden Societies_, may prove of importance, especially if somewhat
+far back information is desired, while for details connected with the
+Elizabethan Age, the _Cecil Papers_ are invaluable. They are also most
+interesting reading.
+
+The _Miscellanea Genealogica et Heraldica_, a ponderous and important
+work, contains many copies of parish registers and monumental
+inscriptions.
+
+The _Index Society’s Publications_ should not be overlooked, nor
+those of the _Society of Antiquaries_, the _Royal Archæological
+Institute_, and _British Archæological Association_.
+
+The _Pipe Roll Publications_ may prove of value, and, if the family is
+of French extraction, the works of the _Huguenot Society_ should be
+consulted.
+
+The _Historical Register_, published from 1714 to 1738, may supply
+details between those dates, while _The Annual Register_, which began
+in 1758 and is still proceeding, should certainly be referred to
+for the period required. It is especially useful on account of the
+announcements of births, marriages, and deaths which are inserted
+regularly.
+
+_Directories_, which have appeared sometimes under different titles for
+more than two centuries, may prove of assistance in tracing names and
+addresses, especially if the searcher knows the most probable districts
+in which to look. The first London Directory was printed in 1677.
+
+_Newspapers_ might also be searched, for they may supply just the
+required link. The British Museum possesses a great number of old
+newspapers; but if the pedigree-hunter is not searching in London, he
+may also find in other libraries a fair supply to meet his demand. The
+Dublin National Library, for instance, possesses a good store of early
+newspapers.
+
+A novice might scarcely think of consulting _magazines_ with the view
+of obtaining genealogical information, and he certainly would not be
+likely to find what he requires in our popular monthlies; but from
+certain journals of an earlier date a rich harvest might be reaped.
+
+_The Gentleman’s Magazine_ was started in 1731, and, though it
+was discontinued in its earlier form, for some years up to the
+last half-century, it will prove a happy hunting-ground for the
+genealogical student, especially on account of its “obituary” and other
+announcements.
+
+An index to the greater number of its volumes has been published
+separately, reference being given in it to the volumes supplying the
+required information under each name.
+
+_The London Magazine_ was published from 1732 to 1786, and might be
+looked up if information is required between these dates.
+
+There are, besides these, certain magazines which are devoted wholly
+or in a great part to genealogical matters, such as _The Genealogist_,
+_The Ancestor_, which ran for some years, and _Notes and Queries_.
+These might well be looked up on the chance of their giving information
+about the object of the search.
+
+_The Hibernian Magazine_, an eighteenth-century journal, is especially
+valuable in the case of Irish families. The announcements of births,
+deaths, and marriages have been printed separately in two volumes, so
+_they_ are what should be consulted.
+
+
+
+
+CHAPTER IV
+
+MISCELLANEOUS MS. DOCUMENTS OF VALUE TO THE SEARCHER
+
+
+We have already considered the subject of Wills and Parish Registers.
+Besides these, there is a multitude of miscellaneous manuscripts from
+which genealogical information can be gleaned; but what they are will,
+in a certain degree, depend on where the pedigree-hunter is searching.
+
+If in London, the treasures of the Record Office are at his disposal,
+which MS. treasures claim a later notice to themselves. The Dublin
+Record Office, in a lesser degree, will supply many somewhat similar
+documents, while in Edinburgh he also can effect much.
+
+So, in whichever of the British Isles he is located, certain MSS. are
+at his disposal. To enumerate the most important of these:--
+
+Records of _legal matters_ often throw light on a dark subject. For
+these, _Chancery Bills_, their _Answers_ and _Exchequer Degrees_,
+should principally be searched. Indexes to such Bills must first be
+consulted, then the manuscripts themselves. This will be rather a long
+task, as such documents are very numerous and often lengthy, but the
+result can scarcely fail to be beneficial.
+
+_Assize Rolls_, which give particulars of cases tried before
+itinerating judges, may also reveal a good deal.
+
+_Deeds_ of various kinds, leases, etc., open up a wide field for the
+searcher; in fact, more leisure time than is, as a general rule, at
+most people’s disposal might profitably be employed on the Deeds alone.
+
+Wills having been hunted up previously, it must not be inferred that,
+when a man has died intestate, nothing further can be discovered about
+his property or heirs.
+
+In such cases, where personal estate is concerned, an administrator or
+administratrix would be appointed, probably his widow or next-of-kin.
+
+In the _Administration Bond_, to which the searcher should direct his
+attention, it is very possible that the names of the children of the
+deceased may be found; if not, the mere name of the administrator may
+reveal a good deal. Indexes are, of course, procurable to all these and
+similar documents.
+
+_Marriage Licences_ and _Marriage Licence Bonds_ are often profitable
+sources of information.
+
+For nineteenth-century searches, _Census Returns_ may be consulted, and
+_Hearth Money Rolls_ (referring to small taxes levied on individuals)
+for those of earlier date--from 14 Charles II. to 1 William and Mary.
+
+These, or similar documents, can be found in whichever of the British
+Isles the pedigree-hunter is searching; but others, which may possibly
+also serve his purpose, can only (unless where copies exist) be
+consulted in definite centres.
+
+_Heraldic Records_, which comprise armorial information, important
+pedigrees, funeral certificates, etc., are preserved in the College of
+Arms, Queen Victoria Street, London, and there is a similar College of
+Arms, presided over by the Ulster King of Arms, in Dublin Castle.
+
+A most valuable library is connected with the College of Arms in
+London, and, of course, the documents stored in the office itself are
+of inestimable value.
+
+All searches must be paid for, however; there are stated fees and
+certain rules which cannot be infringed.
+
+_Monastic Bodies_ have often preserved intact their most valuable
+records, and where such might prove useful, they will, in many cases,
+be found accessible. These registers principally consist of Chronicles,
+Registers, and Martyrologies. The two former would be found the most
+generally useful, though, naturally, they presuppose that a somewhat
+early date is required.
+
+The records of _Freemen_ and of _Municipal Bodies_ may, on occasions,
+prove of value; nor should those connected with _Grammar_ and _Public
+Schools_ be overlooked.
+
+The Registers of the various Diocesan Courts will supply information
+about the _Clergy_, and the dates of their appointment to their
+benefices will be found in a series of _Institution Books_, which can
+be consulted in the Public Record Office.
+
+For members of the _Medical Profession_ the records of their respective
+universities will supply information, and there is a printed work, the
+_Roll of the College of Physicians_, by Dr. George Munk, the Registrar
+of that College, which gives additional biographical details.
+
+Lists of members of the _Royal College of Surgeons_ and of _Dental
+Practitioners_ can also be consulted.
+
+Records connected with _Barristers_ and the Bar are preserved in
+Lincoln’s Inn, the Middle and Inner Temple, and Gray’s Inn.
+
+For _Attorneys_ and _Solicitors_ reference should be made to the
+_Rolls_ and _Catalogues of Attorneys_, also the _Admission Books_
+giving dates, names, and residences; the latter extend from 1729 to
+1848. These documents can be looked up in the Record Office.
+
+Here, also, the papers formerly preserved in the War Office are now
+kept. This series, which is valuable if particulars connected with the
+Army are required, dates from 1700, but its Muster Rolls only from 1760.
+
+There are army lists and muster rolls to be found in other places also.
+Sims (who has been referred to previously) enumerates these records,
+and mentions where they are now kept.
+
+Several old _Navy Lists_ can be found in the British Museum, and the
+Navy Office keeps registers of the officers and men, with date and
+place of their deaths. The ages of the men are also entered.
+
+_Universities_, though their lists of graduates are published, have
+treasures of information only obtainable at first hand. So, where one
+or more of these is likely to prove valuable, their records should, if
+possible, be searched. These are principally the _Books of Admission_
+to the different colleges, the university, _Matriculation Books_, and
+the _Degree Books_.
+
+These give details of parentage and many other items.
+
+
+
+
+CHAPTER V
+
+HOW TO MAKE A FAMILY TREE
+
+
+If the pedigree-hunter is wise, he will have provided himself with
+_Ancestral Tablets_, by Whitmore, as has been previously suggested.
+They simplify matters greatly.
+
+But he may not have done this, or he may have occasion to jot down
+his forbears on paper either for his own recollection or for the
+information of others. Of course, this must often be done, and the
+following is a simple method to adopt.
+
+We will suppose his “tree” begins with a certain John Browne.
+
+He might thus note particulars, leaving blanks in the way indicated
+where information is not forthcoming.
+
+The mark [Illustration: stick figure with crossed arms] signifies that
+all the children are not noted in his pedigree.
+
+Sometimes an actual _tree_ is drawn, with various branches emanating
+from a parent stem. This is an interesting method, the effect being
+clear, but the amateur might find its execution somewhat difficult.
+
+
+                           John Browne,  =  Jane Roberts,
+                           of Co. Devon, |  b. --, d. --
+                           b. --, d. --  |
+              +----------+---------------+------+
+              |          |                      |
+           George     Michael  =  Ellen,       John,
+           of Devon,  b. 1710, |  dau. of      b. 1713,
+           b. 1708    d. --    |  George Shaw  d. 1713
+                               |
+         +--------------+------+
+         |              |
+       Peter   = --?  John     = --?
+       b. --,  |      of York  |
+       d. 1750 |               |
+               |               |
+   +-----------+               +---------------+
+   |                           |               |
+ Mary = Capt. Duncan, R.N., Henry    = --?  Robert,    = Alice, daughter
+      | of Somerset         of Devon |     b. --, d.-- |  of John Jones
+      =                              |                 |
+     /|\                             |     +-----------+----------+
+                                     |     |           |          |
+     +----------+-------+------------+  James = Mary  John      Thomas
+     |          |       |                Scott        died       died
+ Elizabeth    John    Mary                 |      in infancy  in infancy
+                                           |
+                       +--------------+----+------+
+                       |              |           |
+                     Ethel,         George,     John = Lucy Anna,
+                     m. John Scott  b. 1885,    b.     dau. of Rev.
+                                    d. 1904     1886   J. S. Lick, 1908
+
+Again, the genealogist may have to write more in narrative form
+particulars connected with his family tree. The following is an
+illustration of how this may be done--
+
+“John Browne was succeeded by his brother, James Browne, who was born
+1st April 1661, married Sarah, daughter of Michael Jones of Wiltshire,
+and died in 1735, leaving issue--
+
+  1. John, of whom presently.
+  2. George, alive in 1771.
+  3. Nicholas, b. 1710, d. --(?).
+  4. Bernard, married Mary Green, 1754.
+
+  1. Ellen, married --(?) Smith.
+  2. Elizabeth, b. 1705, married John Jones.
+  3. Abigail, married Peter Smith.
+  4. Mary, died in infancy.
+  5. Hannah.
+  6. Rose, died in infancy.
+
+“The eldest son, John Browne, b. 1698, succeeded his father, James,
+in 1735. He married, 1724, Isabella, daughter of Michael Spencer of
+Devonshire, and had four sons and three daughters.”
+
+
+
+
+CHAPTER VI
+
+ADDITIONAL NOTES ON PEDIGREE-HUNTING IN LONDON
+
+
+While the greater part of what has already been written applies to
+the pedigree-hunter in London as well as elsewhere, he has naturally,
+as being located in the British metropolis, certain advantages which
+cannot be enjoyed in other localities.
+
+_The Record Office._--Though the Irish Record Office is invaluable
+to searchers in Ireland, the Record Office _par excellence_--that in
+London--is, of course, best adapted to English research, and has the
+custody of national documents of greater historical and antiquarian
+interest.
+
+It is free to searchers. The pedigree-hunter, on his first visit
+there, will be pointed out two large Search Rooms, and will note with
+satisfaction their comfortable appearance--also the walls lined with
+bookshelves, all filled with indexes of various kinds.
+
+By the help of some of these indexes he will probably discover
+particulars as to the title and date of the document he wishes to
+consult. If not, an application to one of the courteous officials in
+charge will most likely throw all necessary light on the subject.
+A docket will be given him to fill up containing the necessary
+particulars, and the document itself will follow with very little delay.
+
+The pedigree-hunter may be asked if he has a ticket entitling him to
+search here. Such tickets have been rather lately introduced by the
+Record Office authorities; before that, no restriction was placed on
+a searcher, and this is almost a nominal one; he has merely to be
+recommended by a householder.
+
+If the searcher cannot produce the necessary ticket, he will be given
+a form to fill up and get signed by the householder, which he will be
+requested to send to the Record Office before his next visit.
+
+On receipt of this form, duly signed, a ticket entitling him to make
+researches there will be posted to him.
+
+At the Record Office the pedigree-hunter will, of course, find most of
+the various classes of miscellaneous MSS. which have been mentioned
+as likely to be of greatest service to him. There, also, he might
+consult hundreds of indexes which would not help his particular object
+in the least, and he may indeed be bewildered by the vast stores of
+antiquarian information so lavishly offered to him.
+
+A most useful book, which he will find on the shelves, is
+Scargill-Bird’s _Guide to the Record Office_. It enumerates the various
+_classes_ of documents stored there.
+
+But the searcher may still be in doubt as to his individual case. If
+so, and he, having looked up the various MSS. recommended, thinks
+additional information might be forthcoming, he should then consult one
+of the Record Office officials, stating the exact point on which he is
+anxious to obtain information; probably the required document will be
+in his hands a few minutes later.
+
+The following classes of documents will be found the most generally
+useful to the genealogical searcher in the Record Office: The State
+Papers, Chancery and Exchequer Proceedings, The Parliamentary Surveys,
+Feet of Fines, Royalist Composition Papers, Patent and Close Rolls.
+
+_The Heralds’ College._--The fees payable at the Heralds’ College
+are not exorbitant, and, of course, stores of armorial and
+other genealogical information are preserved there. The London
+pedigree-hunter has the advantage here also; for though he cannot,
+as in the Record Office, search himself through all the requisite
+documents, yet if he applies in person at the Heralds’ College (this is
+called a personal search), the fee for information on a required point
+will be five shillings; if the inquiry is made by correspondence, ten
+shillings and sixpence.
+
+The treasures of the Heralds’ Office are divided broadly into Records
+and Collections. A general Record search costs two guineas, and a
+search through Records and Collections five guineas.
+
+_Somerset House._--In this vast storehouse of documents the two classes
+which will most appeal to the genealogist are the collection of Wills
+and the general Registers.
+
+Wills earlier than 1858 are found in the local Diocesan Registries,
+and are in a variety of places scattered over England. Formerly, if
+a person owned property in more than one diocese, his will would be
+proved in the Archbishop’s Court. So wills were proved in Canterbury
+Prerogative Court for all parts of England, and not merely locally.
+_All these Canterbury Prerogative wills are at Somerset House._ Some
+northern wills are at York for the same reason. But all wills since
+1858 are deposited at Somerset House.
+
+In the Registrar-General’s office there, registers have been kept
+regularly since 1837. The fees are not high. If, for instance, the
+pedigree-hunter wants to ascertain the date of a certain birth, the
+search through five years for one name costs five shillings.
+
+To look up wills costs one shilling each, unless the searcher has a
+free literary docket; particulars as to these literary permits will be
+found in a later chapter.
+
+_The Middlesex Registry._--This Registry, situated in St. James’s
+Street, contains all documents (since 1708) which affect land in
+Middlesex.
+
+LIBRARIES.--_The British Museum._--The London genealogist is also
+especially fortunate with regard to libraries. Foremost of all comes,
+of course, that at the British Museum. There not only is access to the
+Great Reading Room free by ticket (on the recommendation of a London
+householder), but the Newspaper Room and MSS. Department are also free,
+and both are very valuable to the genealogist. The latter is especially
+so, as it contains a store of manuscripts and Pedigrees, Herald’s
+Visitations, and numberless miscellaneous documents.
+
+_Lambeth Library._--This is situated in Lambeth Palace, and deserves
+to be more frequently visited by the genealogical student than it
+is at present, for it contains many ancient pedigrees and important
+manuscripts. Its contents are all old, and are divided into records and
+printed books. There are seven distinct series of manuscripts, bound
+in volumes--also very good indexes.
+
+The pedigree-hunter will have the required volumes brought to him in
+the Great Hall erected by Juxon, now used as a Reading or Search Room.
+
+_Heralds Office Library._--There is a library of genealogical and
+armorial works and books bearing on such subjects at the Herald’s
+Office, Queen Victoria Street.
+
+_The Guildhall Library._--Another London Library, where printed books
+on genealogy can be had in abundance, is that of the Guildhall, which
+ranks in this way only second to the British Museum Library.
+
+
+
+
+CHAPTER VII
+
+THE PEDIGREE-HUNTER IN IRELAND
+
+
+As has previously been intimated, the pedigree-hunter, if looking up an
+Irish family, can discover almost everything he wants (if discoverable
+at all) in Dublin.
+
+So, even if living in some country district in Ireland, all he requires
+is to locate himself for some time in the Irish metropolis.
+
+There he will find, in the Dublin Record Office, the _Wills and
+Administrations_ which he needs, both Prerogative and Diocesan.
+
+There he can revel in the _Chancery_ and _Exchequer Bills_ and
+_Answers_ which, apart from the direct object of his search, very often
+supply most interesting and even amusing information.
+
+_Cause Papers_, another variation of legal documents, are to be found
+there; also _Marriage Licence Bonds_ for the whole of Ireland, and,
+indeed, nearly all the more important documents of the various kinds
+enumerated in earlier chapters.
+
+Besides these, the Dublin Record Office holds the greater number of
+Irish _Parochial Registers_, either in the original or as copies, both
+equally valuable to the searcher. This is a great advantage to him, as
+he may find what he wants in the registers of a country parish while
+searching in Dublin.
+
+But many parishes still keep their registers in their own possession,
+and have not forwarded any “parochial returns” to the Dublin Record
+Office.
+
+“Inquisitions post-mortem” and “ad quod damnum” of early dates can be
+consulted there; they are written in Latin, and a novice would not
+find them at all easy to decipher. The majority of them, however, have
+been printed in ponderous old volumes, which can be studied by all
+interested.
+
+The pedigree-hunter should go through as many indexes of documents as
+he can during his visits to this Record Office on the chance of coming
+across something new and valuable.
+
+There are bookcases lined with volumes of indexes round the walls
+of the Search Room, and others, such as those required for Chancery
+and Exchequer Bills--known as “Bill Books”--will be given to him on
+application.
+
+Though so much is discoverable at the Record Office, the Dublin
+searcher must not confine his attention to it, as there are other
+treasure-houses in that metropolis also.
+
+He should certainly make his way to the Registry of Deeds in King’s
+Inn, for there he will be sure to have valuable finds, and he can
+search in the office all day long on payment of two shillings and
+sixpence.
+
+Indeed, the pedigree-hunter will be more than surprised at the number
+of deeds under each name which the copious indexes display, and as a
+separate index is issued (for each letter of the alphabet) for every
+few years, a long time might be profitably spent in the Search Room of
+the Registry of Deeds, and each successive visit there be increasingly
+beneficial.
+
+Therefore the searcher in Ireland must not forget to devote his
+attention to the Registry of Deeds, King’s Inn, Dublin.
+
+Nor should he fail to visit Trinity College, where he can peruse
+_Matriculation Entries_, which supply the father’s name and other
+particulars, to his heart’s content. No fees are charged for such
+investigations.
+
+And if the inquiries he wishes to make relate to early times, he may
+find there also _pedigrees_ of value, for fairly early pedigrees of
+Anglo-Irish families, as well as other similar documents of interest
+and importance, are preserved in T. C. D.
+
+At the Castle, Dublin, he can visit the _College of Arms_, Ulster’s
+Office, which, of course contains a vast store of genealogical and
+armorial information.
+
+The Betham MSS. are among the most important of such documents stored
+there.
+
+But pedigree-hunters are not admitted far into these hallowed
+precincts; indeed, they are seldom now allowed to make personal
+searches, as officials undertake the desired investigations for stated
+fees.
+
+The searcher may derive considerable benefit from visits to the
+principal Dublin libraries.
+
+The _National Library_ contains the published works already
+recommended, and has a most valuable stock of newspapers, some of which
+date from far back in the eighteenth century. Besides this, the indexes
+will show several out-of-print pamphlets and other papers of interest
+to the genealogist.
+
+_Trinity College Library_ is of world-wide renown, being one of the
+five British libraries to which a copy of every published book must be
+sent. It possesses certain valuable illuminated MS. treasures relating
+to early Irish history and ancient Irish families. Some noticeable
+Irish wills are also here deposited. The library, as such, is not open
+to the public; special permission _may_, however, be given to read
+there, if approved by the authorities.
+
+At _Christ Church Cathedral_ a certain number of ancient deeds and
+other documents have been preserved; particulars as to these can be
+found in the _Reports_ of the Deputy-Keeper.
+
+These are the principal places in the Irish metropolis where
+genealogical information can be obtained, and some of them may be found
+by the searcher to be genuine treasure-houses. This is especially the
+case with the Irish Record Office, which, as we have seen, preserves
+most valuable documents of all descriptions.
+
+But if any desirable _Parochial Registers_ are not procurable there,
+application should be made to the rectors of the parishes in question.
+
+The publications of the _Parish Register Society of Dublin_ might
+be consulted. The _Irish Association for the Preservation of the
+Memorials of the Dead_ has issued certain volumes which are most
+valuable, as they record and reproduce the inscriptions on many old
+Irish tombstones. The _Journal of the Royal Society of Antiquaries of
+Ireland_, and the _Journal of the Cork Historical and Archaeological
+Society_, should also prove valuable to the searcher in Ireland.
+
+
+
+
+CHAPTER VIII
+
+THE PEDIGREE-HUNTER IN SCOTLAND AND THE PROVINCES
+
+
+The genealogist in Scotland will naturally direct his steps to
+Edinburgh, where his happy hunting-ground will be the Old Register
+House.
+
+This, however, is not thrown open to all comers in the hospitable
+manner experienced at the London Record Office, and application must
+be made by the genealogist for a special permit allowing him to make
+investigations in the Historical Search Department.
+
+The General Register House consists of three buildings, and is divided
+into the Old Register House and the New Register House.
+
+Amongst the important records kept there, the following may be
+especially mentioned:--
+
+_Crown Writs._--These are similar to English Letters-Patent. An earlier
+series of these are known as Privy Seals, and date from 1498.
+
+_The Register of the Great Seal_, containing various records from 1315.
+
+_Exchequer Records_, dating from 1474, deal with matters relating
+to revenue, rentals of townlands, etc., and may disclose points of
+interest to the pedigree-hunter.
+
+_Privy Council Records._--These are of varied character and importance.
+They consist of Acts, Warrants, State Papers, Royal Letters, etc.
+
+Last, though possibly to the genealogist they may be the most important
+of all, we must mention:--
+
+_The Sasine Records._--By means of these the history of real property
+in Scotland can be traced much more fully than is generally possible in
+England or Ireland. The name “Sasine” is the Scottish equivalent of the
+word “seizin”--the possession of land.
+
+_The Sasine Writs_ commence at different dates for various districts
+and for the several shires in Scotland. All such registers, however,
+are now superseded by the General Register of Sasines, which commenced
+in 1869.
+
+_Wills_, which are such an essential item in English and Irish
+pedigree-hunting, are not quite so important in connection with
+Scottish families, for up to 1874 a Scotsman could not devise land, so
+his will could only deal with personalty. Still, of course, wills must
+be looked up and noted in Scotland as they would be elsewhere.
+
+Neither are _Parish Registers_ so important a feature of genealogical
+research in that country as in England. The reason of this is that
+there was no early enactment there on the subject. So register-keeping
+by the parochial authorities was, up to 1854, a purely voluntary
+undertaking. Since this date a regular system of registration, like
+that in vogue in England, has been carried out.
+
+Scotland has, like its sister countries, its own _Office of Arms_. This
+is known as the _Lyon’s Office_.
+
+But, apart from the General Registry House, there are certain local
+records in Scotland which might be consulted.
+
+The principal of these are: _The Books of the Sheriffs’ Courts_, _The
+Books of the Royal Burghs_, _Ancient Episcopal Records_.
+
+There were no Herald’s Visitations for Scotland, but their Sasines
+affect all the landed classes.
+
+The records of the Scottish _Universities_ supply information which
+may be very valuable to the genealogist, in much the same way as those
+in England and Ireland. These Scottish Universities are St. Andrews,
+Glasgow, Aberdeen, and Edinburgh.
+
+_The Advocates’ Library_, Edinburgh, is a very celebrated one, and of
+printed books, such as have been recommended, the genealogist should
+find a plentiful supply in any large library in Edinburgh or Glasgow.
+
+Perhaps our pedigree-hunter, when looking up a Scottish family, may
+rejoice in the existence of the Clan system in Scotland.
+
+Even if this is regarded as a mixed benefit, it has the advantage of
+giving the genealogist a more limited nomenclature through which to
+search.
+
+WALES.--_Welsh Families._--If by any chance our pedigree-hunter is
+looking up a family of purely Welsh origin, he may be somewhat puzzled
+by the family nomenclature, which is almost entirely patronymic, and
+until rather lately the baptismal name of the father often became the
+son’s surname!
+
+_Parish Registers_ exist in Wales just as in England and Ireland, but
+very few of them have been printed.
+
+There are also various _Episcopal Diocesan Registers_ to be consulted
+there.
+
+Welsh _Chancery Records_ were until lately kept distinct from the
+various series in England.
+
+Reference should be made to those of the _Deputy-Keeper’s Reports_
+(these can be consulted in most good libraries) which concern Wales.
+According to what district is required, they will give particulars
+as to what documents should be searched and where to find them.
+There are, for instance, Welsh Pedigrees and genealogical manuscripts
+deposited in various libraries.
+
+_The Provinces._--The pedigree-hunter who is located in any country
+part of England will almost certainly have to pay a visit to the
+metropolis, either in person or by proxy, to ensure a successful
+search. Still, while he is at home, some most important records may be
+close beside him.
+
+As has already been mentioned, _Wills_, which are not stored at
+Somerset House, are kept in numerous depositories all over the land,
+principally in the Episcopal Courts.
+
+The country searcher may find that his Diocesan Registry, which perhaps
+is close at hand, is just the place where he hopes to discover the most
+promising wills.
+
+Then as to _Parochial Registers_, he may find he is in a better
+position to come across those he wants (should they date before 1837)
+than if he were in London.
+
+_Register Bills_, transcripts of parochial registers, should be sent
+annually to the Bishop’s Registries, and may be found there.
+
+However, there is no law enforcing this, so the duty is regarded, more
+or less, as a voluntary one.
+
+Consequently the searcher will probably have to visit the various
+parishes or write to the vicars, and much may be discovered in this way.
+
+In 1538, a decree was issued by Henry VIII.’s minister, Cromwell,
+enacting that parish registers should be regularly kept. This order, if
+carried out as it was intended, would have filled with joy the heart of
+many a genealogist; but, alas, in early days especially, the rule was
+often more honoured in the breach than in the observance. Still, the
+pedigree-hunter should discover much valuable information at the parish
+registries.
+
+But besides the Probate, Diocesan, and Parochial Registers, if his
+object is to find out particulars about a country family, he might
+consult _Municipal Documents_, _County Records_, and should refer
+to the _Old Record Commission Reports_ of 1800 and 1837; these are
+compiled from the returns made by custodians of records throughout the
+country, and supply ample information in various miscellaneous matters.
+They have been already mentioned.
+
+_Marriage Licences_ are sometimes a fruitful field for discoveries. In
+the country these should be obtainable at the Episcopal Registries.
+If those required are not to be found there, they may probably be
+discovered at the Archdeacon’s Courts.
+
+Of course, the searcher in the counties cannot have access to such
+libraries as those in London and Dublin, unless, indeed, he happens
+to be near Oxford, where the _Bodleian Library_ is a storehouse of
+antiquarian information.
+
+_The University Library_, Cambridge, might also be of great value, but
+it is not easy to get access within its precincts.
+
+And, while in that neighbourhood, _Caius College Library_, Cambridge,
+should not be overlooked, as it might supply some desirable information.
+
+Sundry genealogical details might also be obtained from the _Officers
+of the Clerks of the Peace_, for counties, and from the _Officers of
+the Town Clerks_, for boroughs.
+
+
+
+
+CHAPTER IX
+
+THE WILL-SEARCHER IN ENGLAND
+
+
+We have previously seen that wills in Scotland have not the same
+evidential value as in other parts of Great Britain, that Irish wills
+can be practically all found in Dublin, and that in London, Somerset
+House is the depository where wills proved since 1858 have been kept,
+as well as those proved in the Court of Canterbury, these latter being
+not altogether restricted to testators who lived in that district. They
+date from 1383.
+
+There remain, however, the different wills proved in various parts of
+the country; where exactly shall the searcher look for these?
+
+The year 1858 was indeed an epoch-making year in this respect, for not
+only was the enactment carried into force that future wills should be
+deposited in Somerset House, but the old Diocesan Courts, where (as has
+been previously stated) country wills were mainly kept, were superseded
+by the District Registries. There nearly all the wills formerly in the
+old Diocesan Courts are now preserved.
+
+The following are the names of these, and practically all wills not
+deposited in Somerset House, in Edinburgh, or in Dublin should be
+procurable in one or other of these Registries:--
+
+Blandford, Bangor, Bristol, Bury St. Edmunds, Canterbury, Carlisle,
+Carmarthen, Chester, Chichester, Derby, Durham, Exeter, Gloucester,
+Hereford, Ipswich, Lancaster, Lewes, Lichfield, Lincoln, Liverpool,
+Llandaff, Manchester, Newcastle-on-Tyne, Northampton, Norwich,
+Nottingham, Oxford, Peterborough, St. Asaph’s, Salisbury, Taunton,
+Wakefield, Wells, Winchester, Worcester, York.
+
+The last-named District Registry, that of York, is not exclusively
+confined to wills of those who lived in the district; the others almost
+universally are.
+
+Each Registry, as a rule, comprises several of the suppressed Diocesan
+and Minor Courts. They all date from early times, the latest being
+those of Winchester and Wells, which contain no wills before 1660, and
+the earliest that of Bury St. Edmunds, where the wills date from 1354.
+
+When noting the contents of a will, the pedigree-hunter should put
+down all particulars, even what at first sight might appear trivial,
+as small items sometimes lead to great discoveries. The names of the
+witnesses to a will, for instance, should never be omitted.
+
+Of course, it is not necessary to copy a document in full, but its
+contents should be noted somewhat in this way--
+
+ Will of John Browne, of. Proved in. (Give names of Court and date.)
+
+ _Legatees._--(Here note names of all legatees, their addresses,
+ if given, and _especially_ note particulars of any relationships
+ mentioned, all details of property devised, also any other points of
+ importance, if such occur in the will.)
+
+ _Signed._--(Signature and date to be given here.)
+
+ _Witnesses._--(Names of witnesses here.)
+
+If there is a codicil, the contents, date of signature, and names of
+witnesses to _it_ should also be given.
+
+The contents of all deeds, leases, and other documents should, as far
+as this is practicable, be noted in a somewhat similar manner.
+
+
+
+
+CHAPTER X
+
+AN ADDITIONAL LIST OF PUBLICATIONS WHICH MAY BE USEFUL WHEN TRACING A
+PEDIGREE
+
+
+Chamberlain’s _Angliæ Notitia; or, The Present State of Great Britain_,
+commenced in 1663, and was continued nearly every year until 1755. If
+information is required between these dates as to the professional or
+official classes, this will be found a valuable work to consult.
+
+_The London Gazette_ supplies still more comprehensive records with
+regard to the professions, learned and otherwise. Public appointments
+are here notified, the conferment of honours, promotions in the Church,
+Army, and Navy, etc. It commenced in 1665, and is now issued twice
+weekly.
+
+The records of local societies and local magazines may often profitably
+be consulted.
+
+Of the former the following are the most useful:--
+
+The _Antiquarian Societies_ of Batley and Bradford (Yorkshire), also of
+Beverley, Heckmondwicke, Lancashire and Cheshire, Newcastle-upon-Tyne,
+Isle of Man.
+
+The _Archæological Societies_ of Bristol and Gloucestershire,
+Burton-on-Trent, Derbyshire, Durham, Essex, Kent, London and Middlesex,
+Northamptonshire, St. Albans, Scarborough, Shropshire, Somerset,
+Suffolk, Surrey, Sussex, Wilts, Worcester, and Yorkshire; the Cambrian
+Archæological Society, the Somerset Record Society, and the Surtees’
+Society, Durham.
+
+The following local magazines may also be referred to:--
+
+_The Western Antiquary._
+
+_Notes and Queries_, respectively issued for the following districts:
+Bedfordshire, Devon, Fenland, Gloucestershire, Northamptonshire,
+Cheshire, and Manchester.
+
+_Lancashire and Cheshire Antiquarian Notes._
+
+_The Manx Notebook._
+
+_The Palatine Notebook._
+
+Where information is sought as to _Members of Parliament_, the _Blue
+Book Returns_ should be consulted, and a valuable official work,
+_Returns to Two Orders of the House of Commons_ (dated 4th May 1876 and
+9th March 1877) _of the Names of every Member returned to Serve in each
+Parliament from the Earliest Time to 1874_.
+
+Cave’s _Parliamentary Register_ brings the list of members down to
+1741; _The Chronological Register of Parliament from 1707 to 1807_, by
+Robert Beatson, gives the required information between these dates.
+
+Besides the MS. authorities with regard to the Army and Navy which
+have already been enumerated, printed books on the subject, especially
+if the searcher is not looking for very early information, should not
+be ignored. Of course there are, as every one knows, official _Army_
+and _Navy Lists_, and a good deal of genealogical information may be
+derived from other books, as especially as regards the Navy.
+
+Notable amongst these are:--
+
+_A Naval Biographical Dictionary_, by W. R. O’Byrne.
+
+_Biographia Navalis; or, Memoirs of the Officers of the Army from_
+1600, by John Charnock, 4 vols., 1794.
+
+_English Army-Lists_, etc., 1661-1714, by Charles Dalton, 6 vols.,
+1892-1904.
+
+_Lives of British Admirals_, by John Campbell, 4 vols., 1779; new
+edition, 8 vols., 1812-17; abridged edition, 1847.
+
+Of the two works of the _Old Record Commission_, dated 1801 and 1837
+respectively, the latter will be found especially useful, as it
+contains returns from many of the various depositories of documents in
+Great Britain, notably The Tower, Houses of Parliament, etc.
+
+Cotton’s _Fasti_ contains a store of information, biographical and
+genealogical, about Church dignitaries, and certain searches among
+parochial registers may be obviated by a perusal of Marshall’s _Parish
+Registers_, for, as has previously been mentioned, a great many of such
+are obtainable in print.
+
+_The International Genealogical Directory_ should be consulted, as it
+contains much which might be of great importance to the searcher. He
+should also make himself acquainted with the very useful genealogical
+handbooks published by Mr. C. A. Bernau of Walton-on-Thames.
+
+The number of _County Histories_ increases rapidly, and the
+pedigree-hunter should consult those which are connected with the
+special districts in which he is interested.
+
+From the _Victoria County Histories_ to those compiled by private
+individuals, all may be of more or less importance to the genealogical
+student.
+
+
+
+
+CHAPTER XI
+
+THE PAINS AND PLEASURES OF PEDIGREE-HUNTING
+
+
+Is pedigree-hunting a dry and generally uninteresting matter, valuable
+only for the information to be derived from it, or is it a source of
+interest in itself, even if considered apart from its results?
+
+To this, as to most questions, probably different answers could be
+given. But the replies, if classified, might reveal the fact that,
+though those who know little save in theory about genealogical work may
+think it unattractive, others who have expended time and talents in the
+pursuit almost universally agree that it is in itself--well, if not
+fascinating enough to induce the investigator “to scorn delights and
+live laborious days” (though this may be sometimes the case), still,
+that it certainly approaches thereto.
+
+Of course, a good deal depends upon the tastes of the searcher himself,
+for if he takes up the work with energy he will certainly have to
+count on many, at any rate, laborious _hours_; but the enjoyment
+derivable from the pursuit should much more than compensate for these.
+
+The great joy of the pedigree-hunter is the joy of discovery, and if he
+sets about the work energetically he must discover something--yes, and
+many things.
+
+It is delightful to find a lost link in one’s own family history, and,
+when doing this, the searcher will often unexpectedly come across a
+store of information connected with other families in which he is
+interested. Then there is the possibility of historical discoveries,
+all perhaps springing from the fact of his electing to trace a certain
+family tree, for historical characters were but men and women like
+ourselves, and allied often to insignificant families.
+
+I do not suggest that the pedigree-hunter can easily rival the recent
+Shakespearean finds at the Record Office (the MSS. then brought to
+light having lain there unnoticed during long centuries), for he
+can only expect to get access to classified documents; yet by means
+of these many interesting discoveries might be made, as well as the
+definite family information which he requires be obtained.
+
+But sometimes the discovery of a single missing link may elude the
+searcher for long--if not for ever!--for ancestors have the knack
+of being exasperatingly obstinate when they determine not to reveal
+themselves to their descendants. Yet patience and perseverance should
+in the end out-master this resolution, and during the search, though
+some very dry reading may have to be undertaken and persisted in, a
+great deal of interest must also necessarily crop up; for records are
+by no means altogether dry reading, as the student of affidavits in the
+Chancery and Exchequer Courts can testify.
+
+Besides having to wade through many technical and uninviting-looking
+documents, the pedigree-hunter may find considerable difficulty in
+_deciphering_ some of these MSS.
+
+The novice, however, need not at the outset trouble himself very much
+about this (unless he has from the beginning of his search to refer to
+very ancient documents), because he can prosecute the greater part of
+his work by means of authorised copies of the required documents, which
+are usually handed to him in place of the original MSS. But where the
+latter must be consulted and presents certain difficulties, officials
+in charge usually show themselves both able and willing to help in the
+matter.
+
+Still, a facility in deciphering old MSS. is a valuable asset to the
+pedigree-hunter, and may at times be almost a necessity.
+
+Where such is the case, he cannot do better than consult a work
+entitled _How to Decipher and Study Old Documents_,[2] by E. E. Thoyts
+(Mrs. John Hauteville Cope), which will explain and smooth away his
+difficulties in a wonderful manner. It has been styled _A Key to the
+Family Deed-Chest_, and is so in truth.
+
+These are some of the difficulties which arise in genealogical
+searches, but are far counterbalanced by the results achieved.
+Enthusiasm and patience are certainly necessary qualifications of the
+successful pedigree-hunter, and endowed with these virtues he has not
+much to fear, for the driest details seem replete with interest when
+regarded in the light of dawning discoveries.
+
+Nor can a pedigree-hunter work at genealogy alone; many fascinating
+subjects, such as biography, history, and heraldry, must almost
+necessarily more or less follow in its train, opening up a vista of
+further interest and a field for new discoveries.
+
+
+FOOTNOTES:
+
+[2] Published by Elliot Stock, Paternoster Row, E. C.
+
+
+
+
+CHAPTER XII
+
+HOW TO SAVE EXPENSE IN PEDIGREE-HUNTING
+
+
+There is no doubt that if any one wishes to expend a small fortune in
+record-searching he may find opportunity of doing so; if, on the other
+hand, even shillings are an object to him, he can carry on his work for
+very little expense.
+
+The English Record Office, with its vast stores of information, is free
+to all searchers; so are the British Museum Reading and MSS. Rooms;
+also the other great London libraries.
+
+At Somerset House, where so many of the wills are stored, the fees are
+one shilling for each document searched. An ardent genealogist might
+find that this ran away with a good deal of money; but if his object is
+purely literary, as is so often the case with pedigree-hunters, then a
+docket can be obtained entitling him to search gratuitously in Somerset
+House at stated days and hours, as may be arranged.
+
+The Dublin Record Office is not free to the public, the class of
+documents it contains differing from those in the London Office. Irish
+wills, as we have seen, are stored there, and the fee for the perusal
+of any document is one shilling.
+
+Here again, however, “the literary permit” can be obtained; it is
+usually issued for a month at a time, and is renewable. But whether
+there or in England, no free search is permitted, unless the required
+documents are nearly a century old, and in every instance the search
+must be undertaken with a purely _literary_ object in view. If the
+pedigree-hunter wishes to make good his claim to property, or has
+any other legal project in his mind--well, he must pay for his
+investigations.
+
+For the Heralds’ Office, London, and the College of Arms, Dublin, no
+literary dockets are issued; neither is the Registry House, Edinburgh,
+free to all comers. Half a crown a day is charged at the Registry
+of Deeds, Dublin, but this half-crown can cover a great amount of
+searching.
+
+Where parochial registries have to be consulted at the parishes
+themselves, fixed moderate fees are charged. In some cases these
+charges may be modified, or even abolished altogether, in favour of
+a literary investigator; but this is a special favour, granted for
+special reasons by the rector or curate in charge.
+
+Literary free permits are, however, as we have seen, issued in
+connection with most of the great offices where genealogical
+information can be gleaned, and by the help of these far the greater
+part of the pedigree-hunter’s work can be carried on almost free of
+expense.
+
+In certain other instances, where official fees are charged, literary
+searchers are often most leniently considered, for in genealogical
+matters a good deal depends on the pedigree-hunter himself, and a
+system of red tapeism is not everywhere carried out.
+
+For university and school details and entries the registers can often
+be consulted absolutely free of cost, so the searcher with the narrow
+purse has really little to fear financially when embarking on the
+delightful task of pedigree-hunting.
+
+
+
+
+CHAPTER XIII
+
+LAST WORDS
+
+
+At the beginning of this work it was laid down as a golden rule that
+pedigree-hunters should always, where practicable, _verify their
+information_.
+
+This is so important that it may be well to reiterate it at the close.
+It is often easy to get information second-hand; but to make it his own
+the searcher may have to exercise a good deal of patience and research,
+and he must sometimes be prepared for disappointment.
+
+Still, the result will more than repay him, for thus only can his work
+be sound and satisfactory, and he has a wide field in which to search
+for the verification of traditional details.
+
+Most of the probably most helpful MSS. and publications have been
+mentioned in this little book; but if the pedigree-hunter is roaming
+among the documents in the Record Office or the British Museum, or
+among the contents of a great library, let him look through the
+various indexes and try to find out something new for himself. There
+is a joy in discovery, even if it is only that of an unknown document,
+and it is impossible to enumerate every work which might help all
+cases, while new ones, of course, are constantly being added.
+
+If the genealogist is not a student of Heraldry, he will find it both
+interesting and probably advantageous to form some slight acquaintance
+with this fascinating subject. The question of the Arms of a Family are
+of more importance than its Crest and Motto, and through the knowledge
+of what arms are, and have been, borne by it, the identification of
+some of its members may be established.
+
+But Heraldry is a wide subject, and many use arms and crests to which
+they are quite unable to prove their right.
+
+On the other hand, many who now occupy a humble station are lineal
+descendants in the male line of ancient and historic families.
+
+And, perhaps, our pedigree-hunter may be anxious to prove himself to be
+of noble or even royal descent.
+
+Some years ago an advertiser offered, for a certain fee, to prove to
+his clients that they were descended from kings of England. Naturally
+_Truth_ the argus-eyed, spied this advertisement, and denounced the
+seeming imposture. But when matters were explained to him, _Truth’s_
+opinion somewhat altered.
+
+The point in question is an interesting one. Every one, we may say, has
+had two parents, four grandparents, eight great-grandparents, and so on
+_ad infinitum_.
+
+If the reader calculates the number of generations required to take
+him back to the Norman Conquest, allowing thirty years for each (there
+would be approximately twenty-eight), this will give him over a hundred
+million ancestors alive in 1066!
+
+This number will in reality be much lessened by the fact of
+inter-marriages and relationships (so that the same individuals may
+be ancestors on both the paternal and maternal sides), also by other
+causes. But the fact remains that there was only a population of a few
+millions in Great Britain at the time of the Norman Conquest, and our
+ancestors at that date apparently consisted of a much greater number,
+so that the probabilities are that almost every Englishman of either
+Saxon or Norman ancestry must have been descended from every one living
+in England at the time of the Norman Conquest, including the Conqueror
+himself.
+
+Of course, this works out also in another way, and makes us all
+descended from the serfs as well as from the lords of the soil. Though
+the matter may not be capable of demonstration, it is an interesting
+point to consider.
+
+A genealogist, however, is not satisfied with a pedigree which cannot
+be proved, and if our pedigree-hunter thinks, either from the high
+qualities with which he is endowed, or from the knowledge of noble
+ancestors having adorned his family tree, that kings must have been
+undoubtedly numbered among _his_ forbears--well, of course, he must
+make good his claim, perhaps even to royal descent in the male line.
+
+This probably will not be a matter which can be accomplished, but
+he may possibly be able to prove that he is descended from English
+kings--though not in the direct male line--provided that some of his
+ancestors were of high social position.
+
+As a matter of fact, the majority of our greater and lesser nobility
+are of royal descent, and if our pedigree-hunter’s ancestors
+were allied to such families, the descent in his case should be
+comparatively easy to prove.
+
+To help towards this, he might consult Burke’s _Royal Descents_ and
+Foster’s _Royal Lineages_; but if his family cannot claim the honour
+of royal ancestry, the “kind hearts” which are “more than coronets”
+may have been his proud heritage through a long line of forbears. And,
+taking into consideration the millions of ancestors which each noble
+lord has had, there cannot fail to have been some of low degree from
+whom _he_ has been descended in bygone centuries.
+
+Some families rise in the social scale, others descend, and the
+genealogist may come across numerous instances of the vicissitudes of
+families.
+
+Heirs to the highest of what were regarded as extinct titles have been
+found occupying the very lowest positions in the social scale. Who
+knows whether some unexpected stroke of fortune may not come across
+our genealogical searcher. In fact, there are few limits as to the
+possibilities which may arise in pedigree-hunting.
+
+
+
+
+INDEX
+
+  Administration Bonds, 20
+
+  Advocates’ Library, Edinburgh, 40, 41
+
+  _Ancestor, The_, 18
+
+  _Ancestral Tablets_, 8, 24
+
+  _Angliæ Notitia_, 48
+
+  _Annual Register_, 17
+
+  Antiquaries, Society of, 16
+
+  Army, The, 23, 48
+
+  Assize Rolls, 20
+
+  Attorneys, 22, 23
+
+
+  Baronetage, 6
+
+  Baronets, Official Roll of, 6
+
+  Barristers, 22
+
+  Betham MSS., 36
+
+  Bodleian Library, 44
+
+  British Archæological Association, 16
+
+  ---- Museum Library, 31, 56
+
+  Burke’s _Commoners_ and _Landed Gentry_, 7, 16
+
+  ---- _Royal Descents_,    62
+
+
+  Caius College Library, Cambridge, 44
+
+  _Calendars of State Papers_, 14
+
+  Camden Society, 16
+
+  Cause Papers, 33
+
+  Census Returns, 21
+
+  Chancery Proceedings, 19, 29, 33, 34, 41, 54
+
+  Christ Church Cathedral, Dublin, 37
+
+  Christian Names, 12
+
+  Church and Clergy, 48, 51
+
+  Clan System, 41
+
+  College of Arms, Dublin, 36, 57
+
+  College of Arms, London, 29, 35, 57
+
+  College of Physicians, Roll of, 22
+
+  _Commoners_, Burke’s, 7, 16
+
+  County Histories, 51
+
+  ---- Records, 43
+
+  Courts, Canterbury, Prerogative, 9, 30
+
+  Courts, Diocesan and Prerogative, 9, 11
+
+  Courts, Peculiar, 9
+
+  Cromwell’s Decree, 43
+
+  Crown Writs, 38
+
+
+  Decipher Old Documents, How to, 55
+
+  Deciphering Old Documents, 54, 55
+
+  Deeds, 20, 35
+
+  Dental Practitioners, 22
+
+  Deputy Keeper’s Reports, 14, 37, 41
+
+  Derivation of Word Pedigree, 1
+
+  Diocesan Registers, 22, 41, 42, 43, 45
+
+  Directories, 17
+
+  District Registries, 45, 46
+
+  Dublin, College of Arms, 36
+
+  ---- Irish Record Office, 9, 19, 33, 34, 57
+
+  ---- Registry of Deeds, 35, 57
+
+  ---- Trinity College, 35
+
+  ---- ---- Library, 36
+
+
+  Edinburgh, Advocates’ Library, 40
+
+  ---- Old Register House, 38, 39
+
+  Exchequer Records, 19, 29, 33, 34, 39, 54
+
+
+  Family Histories, 6, 7, 13
+
+  ---- Trees, 24, 25, 26
+
+  Feet of Fines, 29
+
+  Foster’s _Collectanea_, 15
+
+  Freemen, 22
+
+
+  Genealogical Handbooks, 51
+
+  _Genealogist, The_, 18
+
+  _Genealogist’s Guide_, 14
+
+  Genealogy, Usefulness of, 1, 2
+
+  ---- Golden Rule in, 5, 7
+
+  _Gentleman’s Magazine_, 18
+
+  _Gentry, Landed_, 7, 16
+
+  _Guide to the Record Office_, 29
+
+  Guildhall Library, 32
+
+
+  Harleian Society Publications, 16
+
+  Hearth Money Rolls, 21
+
+  Heraldic Records, 21
+
+  Heraldry, 60
+
+  Heralds’ College, 29, 57
+
+  ---- Office Library, 32
+
+  ---- _Visitation_, 15
+
+  _Hibernian Magazine_, 18
+
+  Historical Manuscript Commission, 14
+
+  ---- Register, 17
+
+  Huguenot Society, 17
+
+
+  Index Society, 16
+
+  Indexes, 6, 10
+
+  Information should be Verified, 5, 6
+
+  Inquisitions, 34
+
+  Institution Books, 22
+
+  _International Genealogical Directory_, 51
+
+  _Irish Pedigree_, O’Hart’s, 16
+
+  ---- Society for the Preservation of the Memorials of the Dead, 37
+
+
+  Lancashire and Cheshire Records, 15, 49
+
+  _Landed Gentry_, 7, 16
+
+  Libraries--
+    Advocates’ Library, Edinburgh, 40, 41
+    British Museum, 31
+    Bodleian, 44
+    Caius College, Cambridge, 44
+    Guildhall, 32
+    Heralds’ Office, 32
+    Lambeth, 31
+    National Library, Dublin, 36
+    Trinity College, 36
+    University Library, Cambridge, 44
+
+  Literary Permits, 57, 58
+
+  Local Magazines, 48, 49
+
+  ---- Societies, 48, 49
+
+  _London Gazette_, 48
+
+  ---- _Magazine_, 18
+
+  Lyon’s Office, 40
+
+
+  Magazines, 17, 18
+
+  Marriage Licence Bonds, 20, 33
+
+  ---- Licences, 20, 43
+
+  Memorials of the Dead, 37
+
+  Middlesex Registry, 31
+
+  _Miscellanea Genealogica_, 16
+
+  Monastic Registers, 21, 22
+
+  Municipal Bodies, 22
+
+  ---- Documents, 43
+
+  Muster Rolls, 23
+
+
+  National Library, Dublin, 36
+
+  Navy, The, 23, 50
+
+  ---- Lists, 23, 50
+
+  Newspapers, 17, 36
+
+  _Notes and Queries_, 18
+
+
+  Office of Arms, Dublin, 29
+
+  ---- London, 36
+
+  ---- Scotland, 39, 57
+
+  Officers of Clerks of the Peace, 44
+
+  ---- of Town Clerks, 44
+
+  O’Hart’s _Irish Pedigrees_, 16
+
+  Old Register House, Edinburgh, 38, 57
+
+
+  Pale, English, 11
+
+  Parish Registers, 4, 5, 37, 41, 42, 57
+
+  Parliament, 49
+
+  Parliamentary Register, 50
+
+  ---- Surveys, 29
+
+  Peerages, 6, 13, 16
+
+  Pipe Roll Publications, 17
+
+  Pre’s _Occurrences_, 16
+
+  Privy Council Records, 39
+
+  Provinces, The, 42
+
+
+  Record Office, 9, 19, 23, 27, 28, 29, 53, 56
+
+  ---- Office, Irish, 9, 19, 33, 34
+
+  ---- Society, 16
+
+  Records, Lancashire and Cheshire, 15, 49
+
+  _Records, Privy Council_, 39
+
+  _Records of Sasine_, 39
+
+  Register Bills, 42
+
+  _Register of the Great Seal_, 38
+
+  Registrar-General’s Office, 30
+
+  Registry of Deeds, Dublin, 35, 57
+
+  Reports, Deputy Keeper, 14, 37, 41
+
+  Rolls, Patent and Close, 29
+
+  Royal Archæological Institute, 16
+
+  ---- Descents and Lineages, 62
+
+  Royalist Composition Papers, 29
+
+
+  Sasine Records, 39, 40
+
+  Schools, 22
+
+  Scottish Genealogy, 38, 39, 40, 41
+
+  ---- Local Records, 40
+
+  ---- Universities, 40
+
+  Sim’s Index to Pedigrees, 15, 23
+
+  Somerset House, 9, 10, 30, 46
+
+  _State Papers_, 29
+
+  Statute 4, Edward IV., 11
+
+  Surgeons, Royal College of, 22
+
+  Surnames, 4, 5, 11
+
+
+  Tombstones, 4, 37
+
+  Trinity College, Dublin, 35
+
+  _Truth_, 60, 61
+
+
+  Universities, 23, 40, 58
+
+  University College Library, 44
+
+
+  Verify Information, 5, 6, 59
+
+  Victoria County Histories, 51
+
+
+  Wales, 41, 42
+
+  Walford’s _County Families_, 16
+
+  Wills, 8, 30, 31, 33, 42, 45, 47, 57
+
+
+_Printed by_ MORRISON & GIBB LIMITED, _Edinburgh_
+
+[Illustration: Publisher mark]
+
+
+
+Transcriber’s Notes
+
+Page 3: “To do this the more efficiently” changed to “To do this more
+efficiently”
+
+Page 12: “on the right tack” changed to “on the right track”
+
+Page 16: “Royal Archælogical Institute” changed to “Royal Archæological
+Institute”
+
+Page 31: “in a later chaptor” changed to “in a later chapter”
+
+Page 58: “seachers are often” changed to “searchers are often”
+
+In the Index, “_Anglæ Notitia_” changed to “_Angliæ Notitia_”.
+
+*** END OF THE PROJECT GUTENBERG EBOOK HOW TO TRACE A PEDIGREE ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
